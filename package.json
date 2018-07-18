@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jraymar-zeel/npm-testing/issues"
   },
-  "homepage": "https://github.com/jraymar-zeel/npm-testing#readme"
+  "homepage": "https://github.com/jraymar-zeel/npm-testing#readme",
+  "dependencies": {
+    "axios": "~0.2.0"
+  }
 }
